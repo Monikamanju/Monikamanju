@@ -12,7 +12,7 @@ It includes:
 
 ---
 
-`html
+html
 <!-- 🌌 ADVANCED GITHUB PROFILE README FOR ARJUN KUMAR -->
 <!-- Drop this in your GitHub README.md file directly -->
 
