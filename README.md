@@ -1,96 +1,75 @@
-<!-- 🌟 Monika M | Animated GitHub Profile README -->
+<!-- 🚀 ULTRA-FUTURISTIC GITHUB PROFILE README for MONIKA M -->
 
-<!-- Typing SVG Header -->
+<div align="center">
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Monika+M!;Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Actionable+Insights+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=✨+MONIKA+M;📊+DATA+ANALYST+%26+DATA+SCIENTIST;🐍+PYTHON+%7C+SQL+%7C+POWER+BI;🚀+DATA+VISUALIZATION+EXPERT;💡+LIFELONG+LEARNER+%26+CREATOR" alt="Typing SVG">
 </h1>
 
----
+<div style="border: 3px solid transparent; border-image: linear-gradient(45deg, #00F5FF, #FF00FF, #00FF87, #00F5FF) 1; padding: 20px; border-radius: 15px; background: rgba(0, 0, 0, 0.7); backdrop-filter: blur(10px);">
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/107183503?v=4" alt="Monika M" width="180" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF; animation: float 3s ease-in-out infinite;" />
+    </td>
+    <td align="center" style="padding: 20px;">
+      <div style="text-align: left;">
+        <h3 style="color: #00F5FF;">📍 Location:</h3>
+        <p style="color: white;">Madikeri, India</p>
+        <h3 style="color: #00F5FF;">🎯 Role:</h3>
+        <p style="color: white;">Data Analyst | Data Science Enthusiast</p>
+        <h3 style="color: #00F5FF;">💼 Focus:</h3>
+        <p style="color: white;">Data Analysis · SQL · Power BI · Python</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- 🌐 Social Links -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8a/d0/91/8ad0911b91ff1ef9b81f252a53b00b39.gif" width="500" />
+  <a href="https://linkedin.com/in/monika-m-79b644383" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="https://github.com/Monikamanju" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  <a href="mailto:mm4983785@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+  </a>
 </p>
 
 ---
 
-### 🌸 About Me  
-
-🎓 Currently learning **Data Science with Python** at **Q-Spiders**  
-💡 Passionate about **Data Analysis, Visualization, and Machine Learning**  
-🐍 Skilled in **Python**, **SQL**, and **Power BI**  
-📊 Love crafting **beautiful dashboards and data stories**  
-🌱 Always learning, exploring, and improving every day  
-
----
-
-### ⚙️ Tech Stack
+## 💻 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,git,vscode,github,excel,powerbi&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-4E9A06?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
-### 💼 Featured Projects  
+## 🧠 ABOUT ME
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800" />
-</p>
+```python
+class MonikaM:
+    def __init__(self):
+        self.name = "Monika M"
+        self.role = "Data Analyst | Data Science Enthusiast"
+        self.skills = ["SQL", "Python", "Power BI", "Data Analysis", "Data Science"]
+        self.tools = ["Excel", "Jupyter", "Tableau", "NumPy", "Pandas"]
+        self.goal = "Turning data into actionable insights 🚀"
+    
+    def current_focus(self):
+        return ["Building interactive dashboards", "Mastering predictive analytics"]
 
-| 🚀 Project | 🧾 Description | 💻 Tools |
-|-------------|----------------|----------|
-| [📊 **Sales Dashboard (Power BI)**](#) | Built an interactive dashboard showing sales, profit, and regional performance metrics. | Power BI · Data Modeling · DAX |
-| [🐍 **Python Data Cleaning & EDA**](#) | Cleaned messy data, handled missing values, and visualized trends. | Python · Pandas · Seaborn |
-| [🧮 **SQL Employee Insights**](#) | Queried datasets to find salary stats, top performers, and department insights. | MySQL · Joins · Subqueries |
-| [🤖 **Predictive Model (ML)**](#) | Developed a basic churn prediction model using ML algorithms. | Python · Scikit-learn · Data Science |
-
----
-
-### 📈 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=00FFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&ring=00FFFF&fire=00FFFF" width="48%" />
-</p>
-
----
-
-### 🔥 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=00FFFF" width="50%" />
-</p>
-
----
-
-### 🏆 Achievements & Goals  
-
-✅ Build an advanced **Power BI portfolio**  
-✅ Contribute to **open-source data projects**  
-🚀 Land a **Data Analyst / Data Science role**  
-🧩 Complete a **Capstone Project using Python + SQL + Power BI**
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Quote I Follow  
-
-> *“Without data, you’re just another person with an opinion.”*  
-> — W. Edwards Deming  
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/41/4e/9e/414e9e4f792b2b9fc99e9e19edcd8b1b.gif" width="400" />
-</p>
+monika = MonikaM()
