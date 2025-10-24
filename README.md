@@ -1,4 +1,4 @@
-Excellent, Sakshi 🌟 — here’s a *next-level advanced and aesthetic GitHub Profile README* (HTML + Markdown hybrid) designed for *a professional developer portfolio (example: “Arjun Kumar”)*.
+Excellent, MONIKA 🌟 — here’s a *next-level advanced and aesthetic GitHub Profile README* (HTML + Markdown hybrid) designed for *a professional developer portfolio (example: “Arjun Kumar”)*.
 
 It includes:
 ✅ Futuristic typing animation
@@ -20,7 +20,7 @@ It includes:
 
 <!-- Animated Typing Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+Arjun+Kumar;Full+Stack+Developer;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+MONIKA;Full+Stack+Developer;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <!-- Gradient Banner -->
