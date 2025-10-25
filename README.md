@@ -1,6 +1,6 @@
 <!-- ⚡ MONIKA M – Futuristic GitHub Profile README -->
 <!DOCTYPE html>
-<html lang="en">
+`<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Monika M – Data Analyst & Data Scientist</title>
@@ -65,7 +65,7 @@ monika = MonikaM()
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data  Analysis"/>
 </p>
 
 <!-- ===== GITHUB STATS ===== -->
