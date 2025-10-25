@@ -40,7 +40,7 @@
   </style>
 </head>
 <body>
-
+</body>html>
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=600&color=00F5FF&center=true&vCenter=true&width=800&lines=+MONIKA+M;📊+DATA+ANALYST+%26+DATA+SCIENTIST;🐍+PYTHON+%7C+SQL+%7C+POWER+BI;🚀+DATA+VISUALIZATION+EXPERT" alt="Typing SVG"/>
