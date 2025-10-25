@@ -30,6 +30,13 @@
       color: #00f5ff;
       font-weight: bold;
     }
+    pre {
+      background: #161b22;
+      border-radius: 8px;
+      padding: 12px;
+      overflow-x: auto;
+      color: #00f5ff;
+    }
   </style>
 </head>
 <body>
@@ -40,12 +47,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=90&section=header" width="100%" />
 </div>
 
----
-
 <!-- ===== ABOUT ===== -->
 <h3>👩‍💻 About Me</h3>
 <pre><code class="language-python">class MonikaM:
-    def _init_(self):
+    def __init__(self):
         self.name = "Monika M"
         self.role = "Data Analyst | Data Science Enthusiast"
         self.skills = ["SQL", "Python", "Power BI", "Data Visualization", "Data Cleaning"]
@@ -65,7 +70,7 @@ monika = MonikaM()
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Data_Science-4285F4?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data  Analysis"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-4E9A06?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Analysis"/>
 </p>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -87,6 +92,7 @@ monika = MonikaM()
 
 <!-- ===== FEATURED PROJECTS ===== -->
 <h3>🌟 Featured Projects</h3>
+
 <details>
   <summary><b>📊 Sales Analysis Dashboard (Power BI)</b></summary>
   <ul>
@@ -111,7 +117,7 @@ monika = MonikaM()
   <summary><b>🧠 Customer Churn Prediction (ML)</b></summary>
   <ul>
     <li>Built predictive models with Logistic Regression & Decision Trees.</li>
-    <li>Achieved 92 % accuracy on test data.</li>
+    <li>Achieved 92% accuracy on test data.</li>
     <li>Presented insights visually using Power BI.</li>
   </ul>
   <p><b>Tech Stack:</b> Python | Scikit-learn | Power BI</p>
